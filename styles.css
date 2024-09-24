@@ -1,0 +1,45 @@
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+
+th {
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+td.time {
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    width: 10%;
+}
+
+
+td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+
+td.home {
+    background-color: pink;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+
+caption {
+    background-color: yellow;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.3em;
+}
